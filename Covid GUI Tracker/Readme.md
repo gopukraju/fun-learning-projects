@@ -7,7 +7,7 @@ Simple GUI tracker built with Tkinter library in Python. Interactively shows the
 - Got familiar with Tkinter, BeautifulSoup
 - my first lessons on Web scraping
 - As a beginner it was challenging to scrape the country-wise-stastistic
-- Overcame that to by learning from different platforms.
+- Overcame that too by learning from different platforms.
 
 ## Screenshot
 ![App Screenshot](https://github.com/gopukraju/fun-learning-projects/blob/main/Covid%20GUI%20Tracker/Tracker.PNG)
