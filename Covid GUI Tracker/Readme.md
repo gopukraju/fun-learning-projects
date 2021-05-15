@@ -6,7 +6,7 @@ Simple GUI tracker built with Tkinter library in Python. Interactively shows the
 
 - Got familiar with Tkinter, BeautifulSoup
 - my first lessons on Web scraping
-- As a beginner it was challenging to scrape the country-wise-stastistic
+- As a beginner it was challenging to scrape the country-wise-stastistic and place it into the TreeView of Tkinter
 - Overcame that too by learning from different platforms.
 
 ## Screenshot
